@@ -11,7 +11,7 @@
 
 <script>
 
-import HelloWorld from './components/HelloWorld.vue';
+// import HelloWorld from './components/HelloWorld.vue';
 // import {EventBus} from './EventBus/EventBus.js';
 
 export default {
@@ -23,7 +23,7 @@ export default {
     }
   },
   components: {
-    HelloWorld
+    // HelloWorld
   },
   methods: {
     // receive(data){
